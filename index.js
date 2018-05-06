@@ -20,8 +20,7 @@ var funkyFunction = function() {
   return function() {
     return "FUNKY!"
   }
-     return
-
+     return function
 }
 
 // We want to set theFunk equal to "FUNKY!" using our funkyFunction.
